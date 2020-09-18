@@ -1,15 +1,6 @@
 # Brickify
 Turn images into lego mosaics.
 
-![Image](https://i.imgur.com/VIYIDvW.jpg)
-![Image](https://i.imgur.com/khnmNje.jpg)
-
-![Image](https://i.imgur.com/SYeWct7.jpg)
-![Image](https://i.imgur.com/nnQjNlF.jpg)
-
-![Image](https://i.imgur.com/gfM48BY.jpg)
-![Image](https://i.imgur.com/cvr5wff.jpg)
-
 ## Example
 ### Code Sample
 ```python
@@ -36,3 +27,15 @@ render.save(OUTPUT_PATH + IMAGE)
 
 ### Image Output
 ![Image](https://i.imgur.com/51iLYTm.jpg)
+
+
+# Other Examples
+
+![Image](https://i.imgur.com/VIYIDvW.jpg)
+![Image](https://i.imgur.com/khnmNje.jpg)
+
+![Image](https://i.imgur.com/SYeWct7.jpg)
+![Image](https://i.imgur.com/nnQjNlF.jpg)
+
+![Image](https://i.imgur.com/gfM48BY.jpg)
+![Image](https://i.imgur.com/cvr5wff.jpg)
