@@ -1,3 +1,5 @@
+THIS IS AN OLD VERSION. SEE VERSION 2 FOR A BIG UPDATE. 
+
 # Brickify
 Turn images into lego mosaics.
 
